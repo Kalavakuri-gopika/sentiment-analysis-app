@@ -1,4 +1,4 @@
-# Sentiment-analysis-app
+# sentiment-analysis-app
 ## Overview
 
 This project is a simple Sentiment Analysis web application built with Streamlit.
@@ -12,6 +12,6 @@ It is sometimes called symbolic AI or heuristic-based AI.
 - No need for training or external datasets.
 - Simple and lightweight.
 ## How to run:
-pip install textblob streamlit
-python -m textblob.download_corpora
-streamlit run app.py
+- pip install textblob streamlit
+- python -m textblob.download_corpora
+- streamlit run app.py
